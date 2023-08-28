@@ -1,5 +1,11 @@
-.box1 {
+/* .box1 {
   display: none;
+  background-color: #ff0000;
+  height: 200px;
+  width: 200px;
+} */
+
+.box1 {
   background-color: #ff0000;
   height: 200px;
   width: 200px;
